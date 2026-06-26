@@ -1,9 +1,5 @@
 # 📊 Student Performance Analytics Dashboard — Power BI
 
-<p align="center">
-  <img src="Screenshots/Dashboard.png" alt="Student Performance Dashboard" width="100%"/>
-</p>
-
 ---
 
 ## 📌 Project Overview
