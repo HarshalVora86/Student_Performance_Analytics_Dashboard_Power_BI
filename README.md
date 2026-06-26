@@ -31,17 +31,14 @@ The model uses a **star schema** with `Students` as the central dimension table,
 
 ---
 
-## ⚙️ Data Modeling & DAX Measures
+## ⚙️ Data Modeling 
 
 ### Relationships
 - `Students[StudentID]` → `Scores[StudentID]` (1:*)
 - `Students[StudentID]` → `Attendance[StudentID]` (1:*)
 - `Students[StudentID]` → `Behavior[StudentID]` (1:*)
 
-### Key Calculated Measures
-
 ---
-
 
 ## 📈 Dashboard Pages
 
