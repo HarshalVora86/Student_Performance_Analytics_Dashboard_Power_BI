@@ -1,6 +1,5 @@
 # 📊 Student Performance Analytics Dashboard — Power BI
 
----
 
 ## 📌 Project Overview
 
